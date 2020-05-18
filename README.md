@@ -1,2 +1,4 @@
 # 2019-12-12
-js
+ JS ForLoop Uygulamaları
+
+
